@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "617778641828",
+    "firebase_url": "https://fastorder-144816.firebaseio.com",
+    "project_id": "fastorder-144816",
+    "storage_bucket": "fastorder-144816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617778641828:android:9f248867b60c9405",
+        "android_client_info": {
+          "package_name": "com.lizardapp.android.fastorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617778641828-rokqcgb8s69pk3jdr06rbrv28sm6gnv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABU4JUtDlfwO4zkGgxXb2t6j6z_D9YpuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
